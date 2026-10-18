@@ -1,5 +1,6 @@
 //Name:Lawrence Ndirangu Gicheru
 //Reg No:CT100/G/30644/26
+//A program that calculates the water bill
 
 #include <stdio.h>
 

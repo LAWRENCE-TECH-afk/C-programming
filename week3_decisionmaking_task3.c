@@ -41,8 +41,6 @@ int main() {
 		printf("You selected 2GB. Cost = 600 KES");
 		break;//exits the switch mode 
 	
-	default://handles any number that is not in the choices given
-	printf("Invalid choice\n");
 	
 	}
 return 0;

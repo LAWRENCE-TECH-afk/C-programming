@@ -38,7 +38,7 @@ int main() {
 		break;//exits the switch mode 
 	
 		case 4:
-		printf("You selected 2GB. Cost = 600 KES");
+		printf("You selected 2GB. Cost = 600 KES\n");
 		break;//exits the switch mode 
 	
 	
